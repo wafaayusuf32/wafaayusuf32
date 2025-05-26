@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFpODFvN2d5b3Y3eG1rdno2am9jcXhoanBjZ3drNzVuNmtlZ2VheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif"  />
 </div>
 
